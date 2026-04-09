@@ -54,8 +54,16 @@ This system provides:
 | A24126510154 | PENTAKOTA DESHIK |
 | A24126510168 | TEKKAMU JOSHITHA |
 
-Guide
-Mrs. Botcha Vineela Rani (M.Tech, Ph.D)
+## Submitted To
 
-Institution
-ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY & SCIENCES (A+)
+**Mrs. Botcha Vineela Rani** (M.Tech, Ph.D)
+
+## Department
+
+**DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING**
+
+## Institution
+
+**ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY & SCIENCES (A+)**  
+(Affiliated to Andhra University)  
+Sangivalasa 531162, Bheemunipatnam mandal, Visakhapatnam Dist.
