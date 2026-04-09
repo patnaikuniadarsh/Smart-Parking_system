@@ -43,6 +43,15 @@ This system provides:
 | 5 | Slot 0, 8 | Further outward |
 | 6 | Slot 9 | Last slot |
 
+## 👨‍💻 GitHub Repository Owner
+
+| | |
+|---|---|
+| <span style="color: #FF5733">**Name**</span> | <span style="color: #FF5733">**PATNAIKUNI ADARSH**</span> |
+| <span style="color: #3498DB">**Role**</span> | <span style="color: #3498DB">**Project Lead & Developer**</span> |
+| <span style="color: #2ECC71">**GitHub**</span> | <span style="color: #2ECC71">**github.com/patnaikuniadarsh**</span> |
+| <span style="color: #9B59B6">**Email**</span> | <span style="color: #9B59B6">**patnaikuniadarsh@anits.edu.in**</span> |
+
 ## Team Members
 
 | Roll Number | Name |
