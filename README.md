@@ -1,16 +1,16 @@
 # 🅿️ Smart Parking System Using BFS Graph Traversal
 
-## Overview
+## 📌 Overview
 Traditional parking systems are manual, unorganized, and inefficient. Drivers waste time searching for free slots, causing traffic congestion and poor space utilization.
 
-## Solution
+## 💡 Solution
 This system provides:
-- Automated parking slot allocation using BFS algorithm
+- Automated parking slot allocation using **BFS algorithm**
 - Nearest free slot detection from entrance
 - Waiting queue management when parking is full
-- User-friendly Java Swing GUI
+- User-friendly **Java Swing GUI**
 
-## Features
+## ✨ Features
 - Park a car (automatically finds nearest free slot using BFS)
 - Remove a parked car
 - Display parking status (free/occupied slots)
@@ -18,13 +18,13 @@ This system provides:
 - Graph-based parking lot representation
 - BFS algorithm for nearest slot search
 
-## Technologies Used
+## 🛠️ Technologies Used
 - **Language:** Java
 - **GUI Framework:** Java Swing
 - **Data Structures:** Graph, HashMap, Queue
 - **Algorithm:** Breadth First Search (BFS)
 
-## BFS Algorithm for Nearest Parking Slot
+## 📊 BFS Algorithm for Nearest Parking Slot
 
 ### Graph Representation
 - Each parking slot = **Node (Vertex)**
@@ -42,7 +42,7 @@ This system provides:
 | 5 | Slot 0, 8 | Further outward |
 | 6 | Slot 9 | Last slot |
 
-## GitHub Repository Owner
+## 👨‍💻 GitHub Repository Owner
 
 | | |
 |---|---|
@@ -50,7 +50,7 @@ This system provides:
 | **Roll Number** | A24126510152 |
 | **Role** | Engineering Student & Data Analyst |
 
-## Team Members
+## 👥 Team Members
 
 | Roll Number | Name |
 |-------------|------|
@@ -61,23 +61,25 @@ This system provides:
 | A24126510154 | PENTAKOTA DESHIK |
 | A24126510168 | TEKKAMU JOSHITHA |
 
-## Submitted To
+## 👩‍🏫 Submitted To
 **Mrs. Botcha Vineela Rani** (M.Tech, Ph.D)
 
-## Department
+## 🏫 Department & Institution
+
 **DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING**
 
-## Institution
 **ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY & SCIENCES (A+)**  
 (Affiliated to Andhra University)  
 Sangivalasa 531162, Bheemunipatnam mandal, Visakhapatnam Dist.
 
-## Screenshots
+## 📸 Screenshots
+*(Make sure these filenames match your uploaded images exactly)*
+
 ![Parking Slots](parking-slots.jpeg)
 ![Car 8 at Slot 3](car-8-parking-slot-3.jpeg)
 ![Car 10 at Slot 7](parking-slot-7.jpeg)
 ![Car 3 at Slot 2](parking-slot-2.jpeg)
 ![Error Message](car-already-parked.jpeg)
 
-## License
+## 📄 License
 Academic Project
