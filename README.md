@@ -43,13 +43,7 @@ This system provides:
 | 5 | Slot 0, 8 | Further outward |
 | 6 | Slot 9 | Last slot |
 
-
-
-## How to Run
-```bash
-javac ParkingSystem.java SmartParkingGUI.java
-java SmartParkingGUI
-Team Members
+*Team Members*
 Bonda Geetesh
 
 Gujjala Chandu
